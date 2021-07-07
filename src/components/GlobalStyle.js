@@ -8,6 +8,7 @@ box-sizing: border-box;
 
 body{
     background: #1b1b1b;
+    font-family: 'Roboto',sans-serif;
 
 }
 
@@ -19,6 +20,7 @@ button {
     border:3px solid #23d997;
     background:transparent;
     color:white;
+    font-family: 'Roboto',sans-serif;
     transition: all 0.5s ease;
     &:hover{
         background-color: #23d997;
